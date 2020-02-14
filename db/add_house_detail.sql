@@ -1,0 +1,4 @@
+-- ALTER TABLE houser 
+--   ADD imgURL text,
+--   ADD Monthly_mortgage int,
+--   ADD Mounthly_rent int
